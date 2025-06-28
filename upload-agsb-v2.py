@@ -33,9 +33,9 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "lixivia123"         # 用户名
 UUID = "1c5db095-6358-46e1-a45a-86fc27708e1c"                     # UUID，留空则自动生成
-PORT = 20534                   # Vmess端口，留空或0则自动生成
-DOMAIN = "ph.lixivia123.dpdns.org"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiZDQ2NmRhZDRiNDRiZDhhNDA1NDM2MDg0MjRhZjY1ZTYiLCJ0IjoiY2IyM2QzN2ItMDAwOC00ODRhLWIyMDUtZjVkNWRkMDUxYjUzIiwicyI6Ik1qQTNaR0poTkdJdE9HWmpZaTAwWkdFekxUbGhZVGt0WkRNMlpEQmlPR015TmpaaSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+PORT = 20544                   # Vmess端口，留空或0则自动生成
+DOMAIN = "stream.lixivia123.dpdns.org"                   # 域名，留空则自动获取
+CF_TOKEN = "eyJhIjoiZDQ2NmRhZDRiNDRiZDhhNDA1NDM2MDg0MjRhZjY1ZTYiLCJ0IjoiNzkyZTk1YzMtY2JkNC00MzdhLTg5MWMtNzY5MjdkZTc2ZTk2IiwicyI6Ik1EQTFOVGcwWW1JdE9XVmxNaTAwTkdObExXSmhNemd0TkdWak5tTmpOemMzWTJFMCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
